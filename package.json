@@ -1,11 +1,12 @@
 {
-  "baseUrl": "https://cass.run",
-  "private": true,
-  "scripts": {
-    "shorten": "netlify-shortener"
-  },
-  "author": "cassidoo",
-  "devDependencies": {
-    "netlify-shortener": "^1.0.1"
-  }
+	"baseUrl": "https://srtm.fyi",
+	"homepage": "https://srtm.fyi",
+	"private": true,
+	"scripts": {
+		"shorten": "netlify-shortener"
+	},
+	"author": "sreetamdas",
+	"devDependencies": {
+		"netlify-shortener": "^2.4.0"
+	}
 }
