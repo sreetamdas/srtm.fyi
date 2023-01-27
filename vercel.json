@@ -1,0 +1,110 @@
+{
+	"$schema": "https://openapi.vercel.sh/vercel.json",
+	"redirects": [
+		{
+			"source": "/faq",
+			"destination": "https://sreetamdas.com/faq",
+			"permanent": true
+		},
+		{
+			"source": "/keeb",
+			"destination": "https://twitter.com/_SreetamDas/status/1595795334965637122",
+			"permanent": true
+		},
+		{
+			"source": "/keebs",
+			"destination": "https://sreetamdas.com/keebs",
+			"permanent": true
+		},
+		{
+			"source": "/uses",
+			"destination": "https://sreetamdas.com/uses",
+			"permanent": true
+		},
+		{
+			"source": "/resume",
+			"destination": "https://sreetamdas.com/resume.pdf",
+			"permanent": true
+		},
+		{
+			"source": "/karma",
+			"destination": "https://sreetamdas.com/karma",
+			"permanent": true
+		},
+		{
+			"source": "/newsletter",
+			"destination": "https://sreetamdas.com/newsletter",
+			"permanent": true
+		},
+		{
+			"source": "/repo",
+			"destination": "https://github.com/sreetamdas/sreetamdas.com",
+			"permanent": true
+		},
+		{
+			"source": "/shortener",
+			"destination": "https://github.com/sreetamdas/srtm.fyi",
+			"permanent": true
+		},
+		{
+			"source": "/li",
+			"destination": "https://www.linkedin.com/in/sreetamdas/",
+			"permanent": true
+		},
+		{
+			"source": "/linkedin",
+			"destination": "https://www.linkedin.com/in/sreetamdas/",
+			"permanent": true
+		},
+		{
+			"source": "/tw",
+			"destination": "https://twitter.com/_SreetamDas",
+			"permanent": true
+		},
+		{
+			"source": "/twitter",
+			"destination": "https://twitter.com/_SreetamDas",
+			"permanent": true
+		},
+		{
+			"source": "/gh",
+			"destination": "https://github.com/sreetamdas",
+			"permanent": true
+		},
+		{
+			"source": "/github",
+			"destination": "https://github.com/sreetamdas",
+			"permanent": true
+		},
+		{
+			"source": "/ds",
+			"destination": "https://discord.gg/6mv562nnr7",
+			"permanent": true
+		},
+		{
+			"source": "/discord",
+			"destination": "https://discord.gg/6mv562nnr7",
+			"permanent": true
+		},
+		{
+			"source": "/csb",
+			"destination": "https://codesandbox.io/",
+			"permanent": true
+		},
+		{
+			"source": "/dark-mode-slides",
+			"destination": "https://talk-perfect-dark-mode.vercel.app",
+			"permanent": true
+		},
+		{
+			"source": "/dark-mode",
+			"destination": "https://sreetamdas.com/blog/the-perfect-dark-mode",
+			"permanent": true
+		},
+		{
+			"source": "/*",
+			"destination": "https://sreetamdas.com",
+			"permanent": true
+		}
+	]
+}
