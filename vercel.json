@@ -102,7 +102,7 @@
 			"permanent": true
 		},
 		{
-			"source": "/*",
+			"source": "/:foo*",
 			"destination": "https://sreetamdas.com",
 			"permanent": true
 		}
