@@ -3,21 +3,24 @@
 
 
 # websitelinks
-/faq                https://sreetamdas.com/faq
+/faq                https://sreetamdas.com/faq?utm_source=srtm.fyi
 /keeb               https://twitter.com/_SreetamDas/status/1595795334965637122
-/keebs              https://sreetamdas.com/keebs
-/uses               https://sreetamdas.com/uses
+/keebs              https://sreetamdas.com/keebs?utm_source=srtm.fyi
+/uses               https://sreetamdas.com/uses?utm_source=srtm.fyi
 /resume             https://sreetamdas.com/resume.pdf
-/karma              https://sreetamdas.com/karma
-/newsletter         https://sreetamdas.com/newsletter
+/karma              https://sreetamdas.com/karma?utm_source=srtm.fyi
+/newsletter         https://sreetamdas.com/newsletter?utm_source=srtm.fyi
+
+# others
+/us                 https://sreetamandareena.com?utm_source=srtm.fyi
 
 
-#repos
+# repos
 /repo               https://github.com/sreetamdas/sreetamdas.com
 /shortener          https://github.com/sreetamdas/srtm.fyi
 
 
-#socials
+# socials
 /li                 https://www.linkedin.com/in/sreetamdas/
 /linkedin           https://www.linkedin.com/in/sreetamdas/
 /tw                 https://twitter.com/_SreetamDas
@@ -28,9 +31,9 @@
 /discord            https://discord.gg/6mv562nnr7
 
 
-#others
+# others
 /csb                https://codesandbox.io/
 
 
-#fallback
-/*                  https://sreetamdas.com
+# fallback
+/*                  https://sreetamdas.com?utm_source=srtm.fyi
