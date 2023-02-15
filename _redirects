@@ -12,7 +12,7 @@
 /newsletter         https://sreetamdas.com/newsletter?utm_source=srtm.fyi
 
 # others
-/us                 https://sreetamandareena.com?utm_source=srtm.fyi
+/us                 https://sreetamandareena.com/?utm_source=srtm.fyi
 
 
 # repos
@@ -36,4 +36,4 @@
 
 
 # fallback
-/*                  https://sreetamdas.com?utm_source=srtm.fyi
+/*                  https://sreetamdas.com/?utm_source=srtm.fyi
