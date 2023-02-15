@@ -3,16 +3,16 @@
 
 
 # websitelinks
-/faq                https://sreetamdas.com/faq?utm_source=srtm.fyi
+/faq                https://sreetamdas.com/faq
 /keeb               https://twitter.com/_SreetamDas/status/1595795334965637122
-/keebs              https://sreetamdas.com/keebs?utm_source=srtm.fyi
-/uses               https://sreetamdas.com/uses?utm_source=srtm.fyi
+/keebs              https://sreetamdas.com/keebs
+/uses               https://sreetamdas.com/uses
 /resume             https://sreetamdas.com/resume.pdf
-/karma              https://sreetamdas.com/karma?utm_source=srtm.fyi
-/newsletter         https://sreetamdas.com/newsletter?utm_source=srtm.fyi
+/karma              https://sreetamdas.com/karma
+/newsletter         https://sreetamdas.com/newsletter
 
 # others
-/us                 https://sreetamandareena.com/?utm_source=srtm.fyi
+/us                 https://sreetamandareena.com
 
 
 # repos
@@ -36,4 +36,4 @@
 
 
 # fallback
-/*                  https://sreetamdas.com/?utm_source=srtm.fyi
+/*                  https://sreetamdas.com
