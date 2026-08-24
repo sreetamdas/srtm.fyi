@@ -42,5 +42,9 @@
 /tanstack-start     https://sreetamdas.com/slides/tanstack-start
 
 
+# stats
+/stats          https://stats.sreetamdas.com
+/stats/*        https://stats.sreetamdas.com/:splat
+
 # fallback
 /*                  https://sreetamdas.com
