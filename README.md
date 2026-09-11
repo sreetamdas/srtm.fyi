@@ -1,11 +1,16 @@
 # srtm.fyi
 
-My URL shortener — courtesy of [cass.run](https://cass.run)
+My URL shortener: one [`_redirects`](./_redirects) file, served by Cloudflare
+Pages with `srtm.fyi` as a custom domain. Pushing to `main` deploys it.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/97d21626-4a0e-4a5b-b658-9f559133e4aa/deploy-status)](https://app.netlify.com/sites/srtm-fyi/deploys)
+## Adding a short link
 
-## Make your own
+Append a line to [`_redirects`](./_redirects) and push:
 
-Clicking this button will clone the repo and deploy it to Netlify, be sure to rename your repo afterwards!
+```
+/short            https://example.com
+/short/*          https://example.com/:splat
+```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sreetamdas/srtm.fyi&utm_source=github&utm_medium=shortener-cs&utm_campaign=devex)
+Order matters — rules are matched top to bottom, so the catch-all
+`/*  https://sreetamdas.com` has to stay last.
