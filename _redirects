@@ -14,6 +14,10 @@
 /karma              https://sreetamdas.com/karma
 /newsletter         https://sreetamdas.com/newsletter
 
+# today i learned
+/til                https://til.sreetamdas.com
+/til/*              https://til.sreetamdas.com/:splat
+
 # others
 /us                 https://sreetamandareena.com
 
